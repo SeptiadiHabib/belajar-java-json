@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "firstName": "Septiadi",
   "address": {
     "city": "Cikarang",
@@ -9,17 +8,4 @@
   "lastName": "Habib",
   "age": 29,
   "married": true
-}
-=======
-  "id": "1",
-  "name": "Habib",
-  "hobbies": [
-    "Coding",
-    "Gaming"
-  ],
-  "address": {
-    "street": "Jl. Utama Sukaraya",
-    "city": "Cikarang",
-    "country": "Indonesia"
-  }
 }
