@@ -1,0 +1,11 @@
+{
+  "firstName": "Septiadi",
+  "address": {
+    "city": "Cikarang",
+    "street": "Jl. Utama Sukaraya",
+    "country": "Indonesia"
+  },
+  "lastName": "Habib",
+  "age": 29,
+  "married": true
+}
