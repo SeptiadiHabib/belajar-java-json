@@ -1,9 +1,5 @@
 package programmerhabib.json;
 
-<<<<<<< HEAD
-import com.fasterxml.jackson.annotation.JsonTypeInfo;
-=======
->>>>>>> origin/master
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Assertions;
@@ -31,7 +27,6 @@ public class JavaBeanTest {
 
         System.out.println(json);
     }
-<<<<<<< HEAD
 
     @Test
     void readObjectFromJson() throws JsonProcessingException {
@@ -60,6 +55,4 @@ public class JavaBeanTest {
         Assertions.assertEquals("Cikarang", person.getAddress().getCity());
         Assertions.assertEquals("Indonesia", person.getAddress().getCountry());
     }
-=======
->>>>>>> origin/master
 }
